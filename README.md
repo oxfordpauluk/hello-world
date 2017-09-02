@@ -1,3 +1,3 @@
 # hello-world
 My test repository
-Currently atching mama-mia
+Currently watching mama-mia
